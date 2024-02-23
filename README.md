@@ -24,7 +24,7 @@ Para ejecutar este proyecto, simplemente abre el archivo `index.html` en un nave
 
 ## Documentación
 
-![Explicacion del Codigo](https://github.com/gperzal/Desafio-Promesas/blob/master/code.png "Comentarios")
+![Explicacion del Codigo](https://github.com/gperzal/Desafio-Promesas/blob/master/assets/img/code.png "Comentarios")
 
 ## Contacto
 
