@@ -22,6 +22,10 @@ Para ejecutar este proyecto, simplemente abre el archivo `index.html` en un nave
 - Promesas y Funciones Asíncronas
 - Fetch API para solicitudes HTTP
 
+## Documentación
+
+![Explicacion del Codigo](https://github.com/gperzal/Desafio-Promesas/blob/master/code.png "Comentarios")
+
 ## Contacto
 
 Si tienes alguna pregunta o deseas contribuir al proyecto, puedes contactarme a través de:
